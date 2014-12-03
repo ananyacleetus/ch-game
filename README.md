@@ -1,4 +1,5 @@
-ch-game
+Chess Game 
 =======
+ [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
-simple game application
+Simple game I wrote
